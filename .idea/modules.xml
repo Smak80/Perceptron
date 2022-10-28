@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/DataspellProjects/Perceptron/.idea/Perceptron.iml" filepath="$USER_HOME$/DataspellProjects/Perceptron/.idea/Perceptron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../Smak/Programming/DataSpell/Perceptron/.idea/Perceptron.iml" filepath="$PROJECT_DIR$/../../../../../../../../Smak/Programming/DataSpell/Perceptron/.idea/Perceptron.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
   </component>
